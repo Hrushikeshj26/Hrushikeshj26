@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Hrushikesh Jadhav</h1>
 <h3 align="center">A Passionate FullStack Developer from India</h3>
-<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
+<img align="right" alt="Coding" width="100" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 # 💫 About Me:
 🌱 I’m currently learning MERN Stack<br>💬 Ask me about MERN, CRom's, Android <br>⚡ Fun fact I'm Funny
