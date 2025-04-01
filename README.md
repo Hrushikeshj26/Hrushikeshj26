@@ -16,12 +16,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hrushikeshj26&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrushikeshj26&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hrushikeshj26&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hrushikeshj26&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Hrushikeshj26&icon=4&color=0)](https://visitcount.itsvg.in)
 
