@@ -1,8 +1,11 @@
-<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" height="400"/>
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" height="300"/>
 <h1 align="center">Hi 👋, I'm Hrushikesh Jadhav</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
-## 🌐 Socials:
+# ✨ About Me:
+Hi! I'm a passionate Frontend Developer skilled in HTML, CSS, JavaScript, React, and Tailwind CSS. I love building clean, responsive, and user-friendly websites. I'm a quick learner and enjoy solving problems through code. Currently focused on improving my skills in backend development with Node.js and MongoDB to become a full-stack developer.
+
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hrishi.026) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hrushimj) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hrishi26) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HrushiMj) 
 
 # 💻 Tech Stack:
