@@ -1,8 +1,11 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" height="300"/>
-  <h1>Hi 👋, I'm Hrushikesh Jadhav</h1>
-  <h3>A Passionate Full Stack Developer from India</h3>
-</div>
+<!-- Header Banner -->
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" height="300"/>
+
+<!-- Waving header line -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=100&section=header"/>
+
+<h1 align="center">Hi 👋, I'm Hrushikesh Jadhav</h1>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 ---
 
@@ -23,29 +26,31 @@ I'm a passionate **Frontend Developer** with a love for clean, responsive, and i
 
 ### 💻 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react_router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,git,github,vite,figma,canva" />
 </p>
 
 ---
 
-### ✨ What I'm Up To
-- 📚 Exploring backend development (Node.js, MongoDB)
-- ✨ Building personal projects and improving UI/UX skills
-- 📲 Actively looking for internships or junior frontend/full-stack roles
+### 🌟 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hrushikeshj26&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrushikeshj26&layout=compact&theme=radical" width="47%" />
+</div>
+
+---
+
+### 🧰 Currently Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning-Node.js%20%26%20MongoDB-6DA55F?style=for-the-badge" />
+</p>
+
+---
+
+### 🚀 Goals
+- ✅ Master frontend technologies
+- ✅ Build full-stack applications
+- ✅ Contribute to open source
+- ✅ Land a frontend/full-stack developer job
 
 ---
 
