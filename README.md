@@ -10,7 +10,7 @@
 ---
 
 ### ✨ About Me
-I'm a passionate **Frontend Developer** with a love for clean, responsive, and interactive web experiences. Skilled in **HTML, CSS, JavaScript, React, and Tailwind CSS**, and currently diving into **Node.js and MongoDB** to build full-stack applications. I enjoy solving real-world problems with code and constantly learning new technologies.
+Hi! I'm a passionate **Frontend Developer** skilled in **HTML, CSS, JavaScript, React, and Tailwind CSS.** I love building clean, responsive, and user-friendly websites. I'm a quick learner and enjoy solving problems through code. Currently focused on improving my skills in backend development with **Node.js and MongoDB** to become a **full-stack developer**.
 
 ---
 
@@ -26,14 +26,7 @@ I'm a passionate **Frontend Developer** with a love for clean, responsive, and i
 
 ### 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,git,github,vite,figma,canva" />
-</p>
-
----
-
-### 🔧 Tools & Software I Use
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,inkscape,canva,notion" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,git,github,vite,figma,canva,vscode" />
 </p>
 
 ---
@@ -41,15 +34,8 @@ I'm a passionate **Frontend Developer** with a love for clean, responsive, and i
 ### 🌟 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hrushikeshj26&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrushikeshj26&layout=compact&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrushikeshj26&layout=compact&theme=radical" width="40%" />
 </div>
-
----
-
-### 🧰 Currently Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/Learning-Node.js%20%26%20MongoDB-6DA55F?style=for-the-badge" />
-</p>
 
 ---
 
@@ -67,8 +53,3 @@ I'm a passionate **Frontend Developer** with a love for clean, responsive, and i
 </div>
 
 ---
-
-### 📊 Visitor Count
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Hrushikeshj26&icon=4&color=0" />
-</p>
