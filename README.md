@@ -39,14 +39,6 @@ Hi! I'm a passionate **Frontend Developer** skilled in **HTML, CSS, JavaScript, 
 
 ---
 
-### 🚀 Goals
-- ✅ Master frontend technologies
-- ✅ Build full-stack applications
-- ✅ Contribute to open source
-- ✅ Land a frontend/full-stack developer job
-
----
-
 ### 😊 Coding is Fun!
 <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*za8BEJqrE_d2h_Te3skO4g.gif" width="100%">
