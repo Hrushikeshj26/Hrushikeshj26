@@ -33,11 +33,7 @@ I'm a passionate **Frontend Developer** with a love for clean, responsive, and i
 
 ### 🔧 Tools & Software I Use
 <p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,inkscape,canva,notion" />
 </p>
 
 ---
@@ -71,3 +67,8 @@ I'm a passionate **Frontend Developer** with a love for clean, responsive, and i
 </div>
 
 ---
+
+### 📊 Visitor Count
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Hrushikeshj26&icon=4&color=0" />
+</p>
