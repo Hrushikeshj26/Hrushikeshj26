@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Hrushikesh Jadhav</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
-# 💫 About Me:
-🌱 I’m currently learning MERN Stack<br>💬 Ask me about MERN, CRom's, Android <br>⚡ Fun fact I'm Funny
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hrishi.026) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hrushimj) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hrishi26) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HrushiMj) 
 
