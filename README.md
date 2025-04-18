@@ -26,7 +26,7 @@ Hi! I'm a passionate **Frontend Developer** skilled in **HTML, CSS, JavaScript, 
 
 ### 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,git,github,vite,figma,canva,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,git,github,vite,figma,vscode" />
 </p>
 
 ---
@@ -34,7 +34,7 @@ Hi! I'm a passionate **Frontend Developer** skilled in **HTML, CSS, JavaScript, 
 ### 🌟 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hrushikeshj26&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrushikeshj26&layout=compact&theme=radical" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrushikeshj26&layout=compact&theme=radical" width="42%" />
 </div>
 
 ---
