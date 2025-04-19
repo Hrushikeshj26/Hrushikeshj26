@@ -1,5 +1,5 @@
-<!--<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" height="300"/> -->
-
+<!-- -->
+<img src="https://raw.githubusercontent.com/helloAmulya/helloAmulya/main/freepik__background__69507.png" width="100%" height="300"/>
 
 <!-- Waving header line -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=150&section=header&animation=twinkling"/>
