@@ -1,9 +1,9 @@
-<!-- -->
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=150&section=header&animation=twinkling"/> -->
 
 
 <!-- Waving header line -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=150&section=header&animation=twinkling"/>
-<img src="https://raw.githubusercontent.com/helloAmulya/helloAmulya/main/freepik__background__69507.png" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/helloAmulya/helloAmulya/main/freepik__background__69507.png" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Hrushikesh Jadhav</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
