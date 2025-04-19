@@ -1,10 +1,10 @@
-<!--  -->
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=150&section=header&animation=twinkling"/> -->
 
 
 <!-- Waving header line -->
 
 <img src="https://img.freepik.com/free-vector/young-man-using-laptop-standing-by-window-night_107791-25477.jpg?t=st=1745075304~exp=1745078904~hmac=d0a00ebf4ca42953e048fd099dfd28f4e40f8afb6eb2d78564db532269a7c6fc&w=1380" width="100%" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=150&section=header&animation=twinkling"/>
+
 
 <h1 align="center">Hi 👋, I'm Hrushikesh Jadhav</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
