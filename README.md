@@ -19,9 +19,9 @@ Hi! I'm a passionate **Frontend Developer** skilled in **HTML, CSS, JavaScript, 
 ### 🌐 Let's Connect
 <p align="center">
   <a href="https://instagram.com/hrishi.026"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" style="width: 120px;"></a>
-  <a href="https://linkedin.com/in/hrushimj"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-  <a href="https://pinterest.com/hrishi26"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white"></a>
-  <a href="https://x.com/HrushiMj"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
+  <a href="https://linkedin.com/in/hrushimj"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="width: 120px;"></a>
+  <a href="https://pinterest.com/hrishi26"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" style="width: 120px;"></a>
+  <a href="https://x.com/HrushiMj"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" style="width: 120px;"></a>
 </p>
 
 ---
