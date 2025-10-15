@@ -13,7 +13,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Hrushikesh Jadhav</h1>
 <h3 align="center">A Passionate Full Stack Developer from India💖</h3> -->
 
-![Header](./githubb-header-banner(1).png)
+![Header](./githubb-header-banner.png)
 
 ---
 
