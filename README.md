@@ -8,11 +8,12 @@
   <a href="https://x.com/HrushiMj"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
 </p>-->
 
-<img src="https://img.freepik.com/free-vector/young-man-using-laptop-standing-by-window-night_107791-25477.jpg?t=st=1745075304~exp=1745078904~hmac=d0a00ebf4ca42953e048fd099dfd28f4e40f8afb6eb2d78564db532269a7c6fc&w=1380" width="100%" />
 
 
-<h1 align="center">Hi 👋, I'm Hrushikesh Jadhav</h1>
-<h3 align="center">A Passionate Full Stack Developer from India💖</h3>
+<!-- <h1 align="center">Hi 👋, I'm Hrushikesh Jadhav</h1>
+<h3 align="center">A Passionate Full Stack Developer from India💖</h3> -->
+
+![Header](./your-header-image-name.png)
 
 ---
 
