@@ -47,11 +47,11 @@ Hi! I'm a passionate **Frontend Developer** skilled in **HTML, CSS, JavaScript, 
 
 ---
 
-### 🌟 GitHub Stats
+<!-- ### 🌟 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hrushikeshj26&show_icons=true&theme=radical" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrushikeshj26&layout=compact&theme=radical" width="42%" />
-</div>
+</div> -->
 
 ---
 
