@@ -22,7 +22,7 @@ Hi! I'm a passionate **Frontend Developer** skilled in **HTML, CSS, JavaScript, 
 
 ---
 
-### 🌐 Let's Connect
+<!-- ### 🌐 Let's Connect
 <p align="center">
   <a href="https://instagram.com/hrishi.026">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
@@ -37,7 +37,7 @@ Hi! I'm a passionate **Frontend Developer** skilled in **HTML, CSS, JavaScript, 
     <img src="https://img.shields.io/badge/X--Twitter-black?style=for-the-badge&logo=X&logoColor=white" />
   </a>
 </p>
-
+-->
 
 ---
 
