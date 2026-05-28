@@ -10,7 +10,7 @@ I am a passionate Frontend Developer based in India, specializing in building cl
 
 ### 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vite,figma,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,supabase,postgres,git,github,vite,figma,vscode,linux" />
 </p>
 
 ---
