@@ -4,7 +4,7 @@
 ---
 
 ### ✨ About Me
-Hi! I'm a passionate **Frontend Developer** skilled in **HTML, CSS, JavaScript, React, and Tailwind CSS.** I love building clean, responsive, and user-friendly websites. I'm a quick learner and enjoy solving problems through code. Currently focused on improving my skills in backend development with **Node.js and MongoDB** to become a **full-stack developer**.
+I am a passionate Frontend Developer based in India, specializing in building clean, responsive, and highly interactive web experiences. For me, coding is like solving a puzzle, and I thrive on turning complex problems into intuitive digital solutions.
 
 ---
 
