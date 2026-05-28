@@ -10,7 +10,9 @@ I am a passionate Frontend Developer based in India, specializing in building cl
 
 ### 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,supabase,postgres,git,github,vite,figma,vscode,linux,gsap,framer" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,supabase,postgres,git,github,vite,figma,vscode,linux" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
 </p>
 
 ---
