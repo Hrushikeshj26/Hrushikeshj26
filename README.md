@@ -15,12 +15,6 @@ I am a passionate Frontend Developer based in India, specializing in building cl
 
 ---
 
-### 📫 Let's Connect!
-*   **Portfolio:** [Portfolio Webiste](https://hrushij-dev.vercel.app/)
-*   **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/hrushikeshj26/)
-
----
-
 ### 😊 Coding is Fun!
 <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*za8BEJqrE_d2h_Te3skO4g.gif" width="100%">
