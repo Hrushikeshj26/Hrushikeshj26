@@ -2,10 +2,12 @@
 
 ---
 
-### 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,supabase,postgres,git,github,vite,figma,vscode,linux" />
-</p>
+<br>
+<div align="center">
+  <h2><b>"Content precedes design. Design in the absence of content is not design, it’s decoration."</b></h2>
+  <p>— Jeffrey Zeldman</p>
+</div>
+<br>
 
 ---
 
