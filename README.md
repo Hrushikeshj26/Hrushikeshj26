@@ -2,8 +2,8 @@
 
 <br>
 <div align="center">
-  <h2><b>"Content precedes design. Design in the absence of content is not design, it’s decoration."</b></h2>
-  <p>— Jeffrey Zeldman</p>
+  <h2><b>"Talk is cheap. Show me the code."</b></h2>
+  <p>— Linus Torvalds</p>
 </div>
 <br>
 
